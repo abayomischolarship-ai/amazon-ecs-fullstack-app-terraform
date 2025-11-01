@@ -1,0 +1,1 @@
+# amazon-ecs-fullstack-app-terraform
